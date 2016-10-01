@@ -8,3 +8,11 @@ some more changes
 somer more changes from remote
 Some more chantes - 
 some more changes 9
+some more changes
+Testing mergetool from local
+testing from remote mergetool
+testing hotfix branchAfter gitignore
+Changes made local in parallel
+testing hotfix branchAfter gitignore
+changed included directly from remote
+
