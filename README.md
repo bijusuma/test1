@@ -11,3 +11,4 @@ some more changes
 Testing mergetool from local
 testing from remote mergetool
 testing hotfix branchAfter gitignore
+Changes made local in parallel
