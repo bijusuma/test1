@@ -12,3 +12,5 @@ Testing mergetool from local
 testing from remote mergetool
 testing hotfix branchAfter gitignore
 Changes made local in parallel
+testing hotfix branchAfter gitignore
+changed included directly from remote
